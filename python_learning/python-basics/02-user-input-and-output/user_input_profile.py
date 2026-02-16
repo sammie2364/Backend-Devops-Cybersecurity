@@ -1,7 +1,7 @@
 name=input("enter your name")
 age=int(input("enter your age"))
-programming_language=input("your favourite programming language")
-version_control=input("enter your version control")
+programming_language=input(" favourite programming language")
+version_control=input("version control you use")
 
 print(f""" 
 {"#"*65}

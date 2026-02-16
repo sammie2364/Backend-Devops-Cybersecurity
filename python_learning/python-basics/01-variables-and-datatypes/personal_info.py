@@ -3,7 +3,7 @@ age=21
 level_of_education="university"
 year="third year"
 course="computer science"
-school="karatina universityS"
+school="karatina university"
 
 print(f""" 
 {"*"*55}
